@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "720010037425",
+    "firebase_url": "https://docsach-5ac3a.firebaseio.com",
+    "project_id": "docsach-5ac3a",
+    "storage_bucket": "docsach-5ac3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720010037425:android:4c450e7ae84d0783",
+        "android_client_info": {
+          "package_name": "com.example.kyosh.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720010037425-2f005t2ip6i7dndj6v9qjhl6nscd5guf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kyosh.bookapp",
+            "certificate_hash": "c9fee007c70126f9f45f0089be7585391ab130ed"
+          }
+        },
+        {
+          "client_id": "720010037425-vm2sdmnjmadhkr57knfrojo47d14dcb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0rq7QwVezEbP5b6_UGf3dcG6GZl-9MhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720010037425-vm2sdmnjmadhkr57knfrojo47d14dcb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
